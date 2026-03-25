@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Trispace:wght@100..800&display=swap');
 
 :root{
-    --fundo:#05668d;
+    --cor5:#05668d;
     --cor1: #028090;
     --cor2: #00a896;
     --cor3: #02c39a;
@@ -11,7 +11,7 @@
 
 body{
     font-family: "Trispace", sans-serif;
-    background: var(--fundo);
+    background: var(--cor5);
     color: var(--cor4);
 }
 
