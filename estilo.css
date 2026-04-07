@@ -31,9 +31,27 @@ margin: 0 auto;
 }
 
 .botao{
-    background-color: var(--botao-inativo);
+  background-color: var(--cor2);
+  display: flex;
+  justify-content: center; 
+  padding: 1em;
+  font-size: 18px;
+  align-items: center;
+  width: 100%;
+border-bottom: 4px solid var(--cor3);
+border-bottom: 2px solid var(--cor3);
+border-bottom: 2px solid var(--cor3);
+border-top: none;
+
+}
+
+.botao::first-child{
+  border-radius: 40px 40px 0 0 ;
 
 }
 
 
+@media screen and (min-width : 768px ) {
+    
 }
+
