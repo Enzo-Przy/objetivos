@@ -63,6 +63,12 @@ border-top: none;
     }
     }
     }
-    
+.aba-conteudo{
+    display: none;
+}
+.abas-texto{
+    background-color: var(--botao-inativo);
+    pa
+}
 
 
