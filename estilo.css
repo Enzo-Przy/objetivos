@@ -64,7 +64,10 @@ border-top: none;
     }
     
 
-    
+ .aba-conteudo.ativo{
+    display: block;
+ }   
+
 .aba-conteudo{
     display: none;
 }
@@ -77,4 +80,19 @@ border-top: none;
 .conteudo-titulo-principal{
     font-size: 28px;
     text-align: center;
+}
+
+.conteudo-titulo-secundario{
+    text-align: center;
+    color: var(--cor4);
+    text-transform: uppercase;
+}
+.contador{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.contador-digito{
+    padding: 0 16px;
+
 }
