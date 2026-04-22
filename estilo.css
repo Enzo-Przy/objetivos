@@ -94,5 +94,7 @@ border-top: none;
 }
 .contador-digito{
     padding: 0 16px;
+    text-align: center;
+    min-width: 100px;
 
 }
