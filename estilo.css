@@ -98,3 +98,13 @@ border-top: none;
     min-width: 100px;
 
 }
+.contador-digito-numerico{
+    font-size: 80px;
+    margin: 0;
+
+}
+.contador-digito-texto{
+    color: var(--cor1);
+    font-size: 20px;
+    margin: 0;
+}
